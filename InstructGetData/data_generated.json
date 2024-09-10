@@ -1,0 +1,27 @@
+[
+    {
+        "图像编辑前的描述": "A big house.",
+        "编辑指令": "Make the house a haunted mansion.",
+        "图像编辑后的描述": "A big and haunted mansion."
+    },
+    {
+        "图像编辑前的描述": "A big house.",
+        "编辑指令": "Make the house a haunted mansion.",
+        "图像编辑后的描述": "A big and haunted mansion."
+    },
+    {
+        "图像编辑前的描述": "A big mountain.",
+        "编辑指令": "Make the mountain a volcano.",
+        "图像编辑后的描述": "A big mountain as a dormant volcano."
+    },
+    {
+        "图像编辑前的描述": "A big house.",
+        "编辑指令": "Make the house a haunted mansion.",
+        "图像编辑后的描述": "A big and haunted mansion."
+    },
+    {
+        "图像编辑前的描述": "A big horse.",
+        "编辑指令": "Make the horse a Clydesdale with a red coat.",
+        "图像编辑后的描述": "A majestic Clydesdale horse in red with a regal air."
+    }
+]

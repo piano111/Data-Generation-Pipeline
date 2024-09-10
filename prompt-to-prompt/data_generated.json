@@ -1,0 +1,27 @@
+[
+    {
+        "图像编辑前的描述": "A painting of a squirrel eating a burger",
+        "编辑指令": "Make the squirrel a lion.",
+        "图像编辑后的描述": "A painting of a lion eating a burger"
+    },
+    {
+        "图像编辑前的描述": "A painting of a squirrel eating a burger",
+        "编辑指令": "Make the house a haunted mansion.",
+        "图像编辑后的描述": "A neoclassical painting of a squirrel eating a burger"
+    },
+    {
+        "图像编辑前的描述": "A big mountain.",
+        "编辑指令": "Make the mountain a volcano.",
+        "图像编辑后的描述": "A big mountain as a dormant volcano."
+    },
+    {
+        "图像编辑前的描述": "A big house.",
+        "编辑指令": "Make the house a haunted mansion.",
+        "图像编辑后的描述": "A big and haunted mansion."
+    },
+    {
+        "图像编辑前的描述": "a photo of a house on a mountain",
+        "编辑指令": "Make the horse a Clydesdale with a red coat.",
+        "图像编辑后的描述": "a photo of a house on a mountain at fall"
+    }
+]
